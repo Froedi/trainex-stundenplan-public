@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Technisches Englisch I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260420T081500
-DTEND:20260420T094500
+DTSTART:20260420T061500
+DTEND:20260420T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -11,8 +11,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technisches Englisch I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260420T100000
-DTEND:20260420T113000
+DTSTART:20260420T080000
+DTEND:20260420T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -20,8 +20,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260420T114500
-DTEND:20260420T131500
+DTSTART:20260420T094500
+DTEND:20260420T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -29,8 +29,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - FT 1.15 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260421T100000
-DTEND:20260421T113000
+DTSTART:20260421T080000
+DTEND:20260421T093000
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -38,8 +38,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - FT 1.15 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260421T114500
-DTEND:20260421T131500
+DTSTART:20260421T094500
+DTEND:20260421T111500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -47,8 +47,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260421T140000
-DTEND:20260421T153000
+DTSTART:20260421T120000
+DTEND:20260421T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -56,8 +56,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260421T154500
-DTEND:20260421T171500
+DTSTART:20260421T134500
+DTEND:20260421T151500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -65,8 +65,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260422T081500
-DTEND:20260422T094500
+DTSTART:20260422T061500
+DTEND:20260422T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -74,8 +74,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260422T100000
-DTEND:20260422T113000
+DTSTART:20260422T080000
+DTEND:20260422T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -83,8 +83,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260422T114500
-DTEND:20260422T131500
+DTSTART:20260422T094500
+DTEND:20260422T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -92,8 +92,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260422T140000
-DTEND:20260422T153000
+DTSTART:20260422T120000
+DTEND:20260422T133000
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -101,8 +101,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260422T154500
-DTEND:20260422T171500
+DTSTART:20260422T134500
+DTEND:20260422T151500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -110,8 +110,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 1 mit M. Düvel - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 1 mit M. Düvel - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260423T081500
-DTEND:20260423T094500
+DTSTART:20260423T061500
+DTEND:20260423T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -119,8 +119,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 1 mit M. Düvel - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 1 mit M. Düvel - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260423T100000
-DTEND:20260423T113000
+DTSTART:20260423T080000
+DTEND:20260423T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -128,8 +128,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - ZWT II 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - ZWT II 1.04 (Vorlesungsraum) - Mechatronik 2024/Heike Horeschi  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260423T114500
-DTEND:20260423T131500
+DTSTART:20260423T094500
+DTEND:20260423T111500
 CATEGORIES:TraiNex
 LOCATION:ZWT II 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -137,8 +137,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260423T140000
-DTEND:20260423T153000
+DTSTART:20260423T120000
+DTEND:20260423T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -146,8 +146,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.05 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.05 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260424T081500
-DTEND:20260424T094500
+DTSTART:20260424T061500
+DTEND:20260424T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.05 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -155,8 +155,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.05 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.05 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260424T100000
-DTEND:20260424T113000
+DTSTART:20260424T080000
+DTEND:20260424T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.05 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -164,8 +164,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technisches Englisch I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260427T081500
-DTEND:20260427T094500
+DTSTART:20260427T061500
+DTEND:20260427T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -173,8 +173,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZWT III 2.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZWT III 2.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260427T114500
-DTEND:20260427T131500
+DTSTART:20260427T094500
+DTEND:20260427T111500
 CATEGORIES:TraiNex
 LOCATION:ZWT III 2.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -182,8 +182,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZWT III 2.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZWT III 2.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260427T140000
-DTEND:20260427T153000
+DTSTART:20260427T120000
+DTEND:20260427T133000
 CATEGORIES:TraiNex
 LOCATION:ZWT III 2.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -191,8 +191,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 2 mit M. Düvel - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 2 mit M. Düvel - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260428T081500
-DTEND:20260428T094500
+DTSTART:20260428T061500
+DTEND:20260428T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -200,8 +200,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 2 - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 2 - FT 1.15 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260428T100000
-DTEND:20260428T113000
+DTSTART:20260428T080000
+DTEND:20260428T093000
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -209,8 +209,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - FT 1.15 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260428T114500
-DTEND:20260428T131500
+DTSTART:20260428T094500
+DTEND:20260428T111500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -218,8 +218,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260428T140000
-DTEND:20260428T153000
+DTSTART:20260428T120000
+DTEND:20260428T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -227,8 +227,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260428T154500
-DTEND:20260428T171500
+DTSTART:20260428T134500
+DTEND:20260428T151500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -236,8 +236,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260429T081500
-DTEND:20260429T094500
+DTSTART:20260429T061500
+DTEND:20260429T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -245,8 +245,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260429T100000
-DTEND:20260429T113000
+DTSTART:20260429T080000
+DTEND:20260429T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -254,8 +254,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I/Gruppe 2 - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Gruppe 2 - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260429T114500
-DTEND:20260429T131500
+DTSTART:20260429T094500
+DTEND:20260429T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -263,8 +263,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260429T140000
-DTEND:20260429T153000
+DTSTART:20260429T120000
+DTEND:20260429T133000
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -272,8 +272,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260429T154500
-DTEND:20260429T171500
+DTSTART:20260429T134500
+DTEND:20260429T151500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -281,8 +281,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I/Gruppe 1 - ZWT I E.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Gruppe 1 - ZWT I E.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260430T100000
-DTEND:20260430T113000
+DTSTART:20260430T080000
+DTEND:20260430T093000
 CATEGORIES:TraiNex
 LOCATION:ZWT I E.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -290,8 +290,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - ZWT II 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - ZWT II 1.04 (Vorlesungsraum) - Mechatronik 2024/Heike Horeschi  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260430T114500
-DTEND:20260430T131500
+DTSTART:20260430T094500
+DTEND:20260430T111500
 CATEGORIES:TraiNex
 LOCATION:ZWT II 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -299,8 +299,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260430T140000
-DTEND:20260430T153000
+DTSTART:20260430T120000
+DTEND:20260430T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -308,8 +308,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technisches Englisch I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260504T081500
-DTEND:20260504T094500
+DTSTART:20260504T061500
+DTEND:20260504T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -317,8 +317,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260504T114500
-DTEND:20260504T131500
+DTSTART:20260504T094500
+DTEND:20260504T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -326,8 +326,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.05 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.05 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260504T140000
-DTEND:20260504T153000
+DTSTART:20260504T120000
+DTEND:20260504T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.05 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -335,8 +335,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 1 mit M. Düvel - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 1 mit M. Düvel - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260505T081500
-DTEND:20260505T094500
+DTSTART:20260505T061500
+DTEND:20260505T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -344,8 +344,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 1 - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 1 - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Thorsten Schnare  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260505T100000
-DTEND:20260505T113000
+DTSTART:20260505T080000
+DTEND:20260505T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -353,8 +353,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Thorsten Schnare  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260505T114500
-DTEND:20260505T131500
+DTSTART:20260505T094500
+DTEND:20260505T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -362,8 +362,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.05 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.05 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260505T140000
-DTEND:20260505T153000
+DTSTART:20260505T120000
+DTEND:20260505T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.05 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -371,8 +371,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.05 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.05 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260505T154500
-DTEND:20260505T171500
+DTSTART:20260505T134500
+DTEND:20260505T151500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.05 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -380,8 +380,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260506T081500
-DTEND:20260506T094500
+DTSTART:20260506T061500
+DTEND:20260506T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -389,8 +389,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260506T100000
-DTEND:20260506T113000
+DTSTART:20260506T080000
+DTEND:20260506T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -398,8 +398,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I/Gruppe 2 - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Gruppe 2 - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260506T114500
-DTEND:20260506T131500
+DTSTART:20260506T094500
+DTEND:20260506T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -407,8 +407,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260506T140000
-DTEND:20260506T153000
+DTSTART:20260506T120000
+DTEND:20260506T133000
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -416,8 +416,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260506T154500
-DTEND:20260506T171500
+DTSTART:20260506T134500
+DTEND:20260506T151500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -425,8 +425,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I/Gruppe 1 - ZWT I E.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Gruppe 1 - ZWT I E.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260507T100000
-DTEND:20260507T113000
+DTSTART:20260507T080000
+DTEND:20260507T093000
 CATEGORIES:TraiNex
 LOCATION:ZWT I E.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -434,8 +434,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - ZWT II 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - ZWT II 1.04 (Vorlesungsraum) - Mechatronik 2024/Heike Horeschi  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260507T114500
-DTEND:20260507T131500
+DTSTART:20260507T094500
+DTEND:20260507T111500
 CATEGORIES:TraiNex
 LOCATION:ZWT II 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -443,8 +443,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260507T140000
-DTEND:20260507T153000
+DTSTART:20260507T120000
+DTEND:20260507T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -452,8 +452,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260508T081500
-DTEND:20260508T094500
+DTSTART:20260508T061500
+DTEND:20260508T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -461,8 +461,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260508T100000
-DTEND:20260508T113000
+DTSTART:20260508T080000
+DTEND:20260508T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -470,8 +470,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260508T114500
-DTEND:20260508T131500
+DTSTART:20260508T094500
+DTEND:20260508T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -479,8 +479,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260508T140000
-DTEND:20260508T153000
+DTSTART:20260508T120000
+DTEND:20260508T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -488,8 +488,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technisches Englisch I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260511T081500
-DTEND:20260511T094500
+DTSTART:20260511T061500
+DTEND:20260511T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -497,8 +497,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260511T114500
-DTEND:20260511T131500
+DTSTART:20260511T094500
+DTEND:20260511T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -506,8 +506,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagenlabor II/Vorlesung - ZWT III 2.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Grundlagenlabor II/Vorlesung - ZWT III 2.04 (Vorlesungsraum) - Mechatronik 2024/Michael Düvel  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260511T154500
-DTEND:20260511T171500
+DTSTART:20260511T134500
+DTEND:20260511T151500
 CATEGORIES:TraiNex
 LOCATION:ZWT III 2.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -515,8 +515,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - FT 2.05 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - FT 2.05 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260512T081500
-DTEND:20260512T094500
+DTSTART:20260512T061500
+DTEND:20260512T074500
 CATEGORIES:TraiNex
 LOCATION:FT 2.05 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -524,8 +524,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagenlabor II/Vorlesung - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Grundlagenlabor II/Vorlesung - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Michael Düvel  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260512T100000
-DTEND:20260512T113000
+DTSTART:20260512T080000
+DTEND:20260512T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -533,8 +533,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Thorsten Schnare  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260512T114500
-DTEND:20260512T131500
+DTSTART:20260512T094500
+DTEND:20260512T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -542,8 +542,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Thorsten Schnare  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260512T140000
-DTEND:20260512T153000
+DTSTART:20260512T120000
+DTEND:20260512T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -551,8 +551,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I/Gruppe 1 - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Gruppe 1 - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260512T154500
-DTEND:20260512T171500
+DTSTART:20260512T134500
+DTEND:20260512T151500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -560,8 +560,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.05 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.05 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260513T081500
-DTEND:20260513T094500
+DTSTART:20260513T061500
+DTEND:20260513T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.05 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -569,8 +569,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.05 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.05 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260513T100000
-DTEND:20260513T113000
+DTSTART:20260513T080000
+DTEND:20260513T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.05 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -578,8 +578,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I/Gruppe 2 - ZME 1.05 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Gruppe 2 - ZME 1.05 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260513T114500
-DTEND:20260513T131500
+DTSTART:20260513T094500
+DTEND:20260513T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.05 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -587,8 +587,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260513T140000
-DTEND:20260513T153000
+DTSTART:20260513T120000
+DTEND:20260513T133000
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -596,8 +596,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260513T154500
-DTEND:20260513T171500
+DTSTART:20260513T134500
+DTEND:20260513T151500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -605,8 +605,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technisches Englisch I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260518T081500
-DTEND:20260518T094500
+DTSTART:20260518T061500
+DTEND:20260518T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -614,8 +614,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260518T100000
-DTEND:20260518T113000
+DTSTART:20260518T080000
+DTEND:20260518T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -623,8 +623,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260518T114500
-DTEND:20260518T131500
+DTSTART:20260518T094500
+DTEND:20260518T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -632,8 +632,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - FT 1.15 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260519T081500
-DTEND:20260519T094500
+DTSTART:20260519T061500
+DTEND:20260519T074500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -641,8 +641,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260519T100000
-DTEND:20260519T113000
+DTSTART:20260519T080000
+DTEND:20260519T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -650,8 +650,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - FT 1.15 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260519T114500
-DTEND:20260519T131500
+DTSTART:20260519T094500
+DTEND:20260519T111500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -659,8 +659,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - FT 1.15 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260519T140000
-DTEND:20260519T153000
+DTSTART:20260519T120000
+DTEND:20260519T133000
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -668,8 +668,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I/Gruppe 1 - ZWT II 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Gruppe 1 - ZWT II 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260519T154500
-DTEND:20260519T171500
+DTSTART:20260519T134500
+DTEND:20260519T151500
 CATEGORIES:TraiNex
 LOCATION:ZWT II 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -677,8 +677,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260520T081500
-DTEND:20260520T094500
+DTSTART:20260520T061500
+DTEND:20260520T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -686,8 +686,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260520T100000
-DTEND:20260520T113000
+DTSTART:20260520T080000
+DTEND:20260520T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -695,8 +695,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I/Gruppe 2 - ZWT II 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Gruppe 2 - ZWT II 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260520T114500
-DTEND:20260520T131500
+DTSTART:20260520T094500
+DTEND:20260520T111500
 CATEGORIES:TraiNex
 LOCATION:ZWT II 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -704,8 +704,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260520T140000
-DTEND:20260520T153000
+DTSTART:20260520T120000
+DTEND:20260520T133000
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -713,8 +713,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260520T154500
-DTEND:20260520T171500
+DTSTART:20260520T134500
+DTEND:20260520T151500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -722,8 +722,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 2 - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 2 - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260521T081500
-DTEND:20260521T094500
+DTSTART:20260521T061500
+DTEND:20260521T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -731,8 +731,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 2 mit M. Düvel - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 2 mit M. Düvel - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260521T100000
-DTEND:20260521T113000
+DTSTART:20260521T080000
+DTEND:20260521T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -740,8 +740,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - ZWT II 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - ZWT II 1.04 (Vorlesungsraum) - Mechatronik 2024/Heike Horeschi  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260521T114500
-DTEND:20260521T131500
+DTSTART:20260521T094500
+DTEND:20260521T111500
 CATEGORIES:TraiNex
 LOCATION:ZWT II 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -749,8 +749,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260521T140000
-DTEND:20260521T153000
+DTSTART:20260521T120000
+DTEND:20260521T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -758,8 +758,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260521T154500
-DTEND:20260521T163000
+DTSTART:20260521T134500
+DTEND:20260521T143000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -767,8 +767,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - FT 1.15 (Hörsaal) - Mechatronik 2024/Herwig Henseler  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260522T081500
-DTEND:20260522T094500
+DTSTART:20260522T061500
+DTEND:20260522T074500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -776,8 +776,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - FT 1.15 (Hörsaal) - Mechatronik 2024/Herwig Henseler  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260522T100000
-DTEND:20260522T113000
+DTSTART:20260522T080000
+DTEND:20260522T093000
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -785,8 +785,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260522T114500
-DTEND:20260522T131500
+DTSTART:20260522T094500
+DTEND:20260522T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -794,8 +794,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260522T140000
-DTEND:20260522T153000
+DTSTART:20260522T120000
+DTEND:20260522T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -803,8 +803,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260526T081500
-DTEND:20260526T094500
+DTSTART:20260526T061500
+DTEND:20260526T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -812,8 +812,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260526T100000
-DTEND:20260526T113000
+DTSTART:20260526T080000
+DTEND:20260526T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -821,8 +821,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - FT 1.15 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260526T114500
-DTEND:20260526T131500
+DTSTART:20260526T094500
+DTEND:20260526T111500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -830,8 +830,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - FT 1.15 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260526T140000
-DTEND:20260526T153000
+DTSTART:20260526T120000
+DTEND:20260526T133000
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -839,8 +839,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - FT 2.05 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - FT 2.05 (Hörsaal) - Mechatronik 2024/Andreas Baral  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260526T154500
-DTEND:20260526T171500
+DTSTART:20260526T134500
+DTEND:20260526T151500
 CATEGORIES:TraiNex
 LOCATION:FT 2.05 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -848,8 +848,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260527T081500
-DTEND:20260527T094500
+DTSTART:20260527T061500
+DTEND:20260527T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -857,8 +857,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260527T100000
-DTEND:20260527T113000
+DTSTART:20260527T080000
+DTEND:20260527T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -866,8 +866,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I/Gruppe 2 - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Gruppe 2 - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260527T114500
-DTEND:20260527T131500
+DTSTART:20260527T094500
+DTEND:20260527T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -875,8 +875,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260527T140000
-DTEND:20260527T153000
+DTSTART:20260527T120000
+DTEND:20260527T133000
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -884,8 +884,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260527T154500
-DTEND:20260527T171500
+DTSTART:20260527T134500
+DTEND:20260527T151500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -893,8 +893,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 1 mit M. Düvel - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 1 mit M. Düvel - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260528T081500
-DTEND:20260528T094500
+DTSTART:20260528T061500
+DTEND:20260528T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -902,8 +902,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 1 mit M. Düvel - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 1 mit M. Düvel - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260528T100000
-DTEND:20260528T113000
+DTSTART:20260528T080000
+DTEND:20260528T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -911,8 +911,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - ZWT II 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - ZWT II 1.04 (Vorlesungsraum) - Mechatronik 2024/Heike Horeschi  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260528T114500
-DTEND:20260528T131500
+DTSTART:20260528T094500
+DTEND:20260528T111500
 CATEGORIES:TraiNex
 LOCATION:ZWT II 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -920,8 +920,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260528T140000
-DTEND:20260528T153000
+DTSTART:20260528T120000
+DTEND:20260528T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -929,8 +929,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260528T154500
-DTEND:20260528T171500
+DTSTART:20260528T134500
+DTEND:20260528T151500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -938,8 +938,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260529T081500
-DTEND:20260529T094500
+DTSTART:20260529T061500
+DTEND:20260529T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -947,8 +947,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260529T100000
-DTEND:20260529T113000
+DTSTART:20260529T080000
+DTEND:20260529T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -956,8 +956,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260529T114500
-DTEND:20260529T131500
+DTSTART:20260529T094500
+DTEND:20260529T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -965,8 +965,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260529T140000
-DTEND:20260529T153000
+DTSTART:20260529T120000
+DTEND:20260529T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -974,8 +974,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technisches Englisch I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260601T081500
-DTEND:20260601T094500
+DTSTART:20260601T061500
+DTEND:20260601T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -983,8 +983,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagenlabor II/L - ZME 2.01 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Grundlagenlabor II/L - ZME 2.01 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260601T100000
-DTEND:20260601T113000
+DTSTART:20260601T080000
+DTEND:20260601T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -992,8 +992,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260601T114500
-DTEND:20260601T131500
+DTSTART:20260601T094500
+DTEND:20260601T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1001,8 +1001,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260602T100000
-DTEND:20260602T113000
+DTSTART:20260602T080000
+DTEND:20260602T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1010,8 +1010,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - FT 1.15 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260602T114500
-DTEND:20260602T131500
+DTSTART:20260602T094500
+DTEND:20260602T111500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1019,8 +1019,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - FT 1.15 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260602T140000
-DTEND:20260602T153000
+DTSTART:20260602T120000
+DTEND:20260602T133000
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1028,8 +1028,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260602T154500
-DTEND:20260602T171500
+DTSTART:20260602T134500
+DTEND:20260602T151500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1037,8 +1037,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I/Gruppe 1 - ZME 1.05 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Gruppe 1 - ZME 1.05 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260603T114500
-DTEND:20260603T131500
+DTSTART:20260603T094500
+DTEND:20260603T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.05 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1046,8 +1046,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260603T140000
-DTEND:20260603T153000
+DTSTART:20260603T120000
+DTEND:20260603T133000
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1055,8 +1055,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260603T154500
-DTEND:20260603T171500
+DTSTART:20260603T134500
+DTEND:20260603T151500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1064,8 +1064,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 2 mit M. Düvel - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 2 mit M. Düvel - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260604T081500
-DTEND:20260604T094500
+DTSTART:20260604T061500
+DTEND:20260604T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1073,8 +1073,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 2 mit M. Düvel - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 2 mit M. Düvel - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260604T100000
-DTEND:20260604T113000
+DTSTART:20260604T080000
+DTEND:20260604T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1082,8 +1082,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - ZWT II 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - ZWT II 1.04 (Vorlesungsraum) - Mechatronik 2024/Heike Horeschi  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260604T114500
-DTEND:20260604T131500
+DTSTART:20260604T094500
+DTEND:20260604T111500
 CATEGORIES:TraiNex
 LOCATION:ZWT II 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1091,8 +1091,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260604T140000
-DTEND:20260604T153000
+DTSTART:20260604T120000
+DTEND:20260604T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1100,8 +1100,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260604T154500
-DTEND:20260604T171500
+DTSTART:20260604T134500
+DTEND:20260604T151500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1109,8 +1109,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260605T081500
-DTEND:20260605T094500
+DTSTART:20260605T061500
+DTEND:20260605T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1118,8 +1118,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260605T100000
-DTEND:20260605T113000
+DTSTART:20260605T080000
+DTEND:20260605T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1127,8 +1127,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260605T114500
-DTEND:20260605T131500
+DTSTART:20260605T094500
+DTEND:20260605T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1136,8 +1136,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260605T140000
-DTEND:20260605T153000
+DTSTART:20260605T120000
+DTEND:20260605T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1145,8 +1145,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technisches Englisch I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260608T081500
-DTEND:20260608T094500
+DTSTART:20260608T061500
+DTEND:20260608T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1154,8 +1154,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260608T100000
-DTEND:20260608T113000
+DTSTART:20260608T080000
+DTEND:20260608T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1163,8 +1163,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260608T114500
-DTEND:20260608T131500
+DTSTART:20260608T094500
+DTEND:20260608T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1172,8 +1172,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260609T100000
-DTEND:20260609T113000
+DTSTART:20260609T080000
+DTEND:20260609T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1181,8 +1181,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe I - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe I - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260609T114500
-DTEND:20260609T131500
+DTSTART:20260609T094500
+DTEND:20260609T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1190,8 +1190,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe I - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe I - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260609T140000
-DTEND:20260609T153000
+DTSTART:20260609T120000
+DTEND:20260609T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1199,8 +1199,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260609T154500
-DTEND:20260609T171500
+DTSTART:20260609T134500
+DTEND:20260609T151500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1208,8 +1208,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260610T081500
-DTEND:20260610T094500
+DTSTART:20260610T061500
+DTEND:20260610T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1217,8 +1217,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260610T100000
-DTEND:20260610T113000
+DTSTART:20260610T080000
+DTEND:20260610T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1226,8 +1226,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I/Gruppe 2 - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Gruppe 2 - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260610T114500
-DTEND:20260610T131500
+DTSTART:20260610T094500
+DTEND:20260610T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1235,8 +1235,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260610T140000
-DTEND:20260610T153000
+DTSTART:20260610T120000
+DTEND:20260610T133000
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1244,8 +1244,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260610T154500
-DTEND:20260610T171500
+DTSTART:20260610T134500
+DTEND:20260610T151500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1253,8 +1253,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - FT 2.07 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - FT 2.07 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260611T081500
-DTEND:20260611T094500
+DTSTART:20260611T061500
+DTEND:20260611T074500
 CATEGORIES:TraiNex
 LOCATION:FT 2.07 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1262,8 +1262,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I/Gruppe 1 - ZWT II 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Gruppe 1 - ZWT II 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260611T100000
-DTEND:20260611T113000
+DTSTART:20260611T080000
+DTEND:20260611T093000
 CATEGORIES:TraiNex
 LOCATION:ZWT II 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1271,8 +1271,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - FT 2.07 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - FT 2.07 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260611T114500
-DTEND:20260611T131500
+DTSTART:20260611T094500
+DTEND:20260611T111500
 CATEGORIES:TraiNex
 LOCATION:FT 2.07 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1280,8 +1280,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260611T140000
-DTEND:20260611T153000
+DTSTART:20260611T120000
+DTEND:20260611T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1289,8 +1289,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260611T154500
-DTEND:20260611T171500
+DTSTART:20260611T134500
+DTEND:20260611T151500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1298,8 +1298,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260612T081500
-DTEND:20260612T094500
+DTSTART:20260612T061500
+DTEND:20260612T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1307,8 +1307,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260612T100000
-DTEND:20260612T113000
+DTSTART:20260612T080000
+DTEND:20260612T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1316,8 +1316,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260612T114500
-DTEND:20260612T131500
+DTSTART:20260612T094500
+DTEND:20260612T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1325,8 +1325,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260612T140000
-DTEND:20260612T153000
+DTSTART:20260612T120000
+DTEND:20260612T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1334,8 +1334,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technisches Englisch I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260615T081500
-DTEND:20260615T094500
+DTSTART:20260615T061500
+DTEND:20260615T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1343,8 +1343,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260615T100000
-DTEND:20260615T113000
+DTSTART:20260615T080000
+DTEND:20260615T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1352,8 +1352,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260615T114500
-DTEND:20260615T131500
+DTSTART:20260615T094500
+DTEND:20260615T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1361,8 +1361,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260616T100000
-DTEND:20260616T113000
+DTSTART:20260616T080000
+DTEND:20260616T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1370,8 +1370,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - FT 1.15 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260616T114500
-DTEND:20260616T131500
+DTSTART:20260616T094500
+DTEND:20260616T111500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1379,8 +1379,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.05 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.05 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260616T140000
-DTEND:20260616T153000
+DTSTART:20260616T120000
+DTEND:20260616T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.05 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1388,8 +1388,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260617T081500
-DTEND:20260617T094500
+DTSTART:20260617T061500
+DTEND:20260617T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1397,8 +1397,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260617T100000
-DTEND:20260617T113000
+DTSTART:20260617T080000
+DTEND:20260617T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1406,8 +1406,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I/Gruppe 2 - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Gruppe 2 - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260617T114500
-DTEND:20260617T131500
+DTSTART:20260617T094500
+DTEND:20260617T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1415,8 +1415,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260617T140000
-DTEND:20260617T153000
+DTSTART:20260617T120000
+DTEND:20260617T133000
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1424,8 +1424,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260617T154500
-DTEND:20260617T171500
+DTSTART:20260617T134500
+DTEND:20260617T151500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1433,8 +1433,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 2 mit M. Düvel - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 2 mit M. Düvel - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260618T081500
-DTEND:20260618T094500
+DTSTART:20260618T061500
+DTEND:20260618T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1442,8 +1442,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 2 mit M. Düvel - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 2 mit M. Düvel - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260618T100000
-DTEND:20260618T113000
+DTSTART:20260618T080000
+DTEND:20260618T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1451,8 +1451,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I/Gruppe 1 - ZWT II 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Gruppe 1 - ZWT II 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260618T114500
-DTEND:20260618T131500
+DTSTART:20260618T094500
+DTEND:20260618T111500
 CATEGORIES:TraiNex
 LOCATION:ZWT II 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1460,8 +1460,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260618T140000
-DTEND:20260618T153000
+DTSTART:20260618T120000
+DTEND:20260618T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1469,8 +1469,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260618T154500
-DTEND:20260618T171500
+DTSTART:20260618T134500
+DTEND:20260618T151500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1478,8 +1478,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260619T081500
-DTEND:20260619T094500
+DTSTART:20260619T061500
+DTEND:20260619T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1487,8 +1487,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260619T100000
-DTEND:20260619T113000
+DTSTART:20260619T080000
+DTEND:20260619T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1496,8 +1496,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260619T114500
-DTEND:20260619T131500
+DTSTART:20260619T094500
+DTEND:20260619T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1505,8 +1505,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260619T140000
-DTEND:20260619T153000
+DTSTART:20260619T120000
+DTEND:20260619T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1514,8 +1514,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technisches Englisch I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260622T081500
-DTEND:20260622T094500
+DTSTART:20260622T061500
+DTEND:20260622T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1523,8 +1523,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260622T100000
-DTEND:20260622T113000
+DTSTART:20260622T080000
+DTEND:20260622T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1532,8 +1532,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260623T100000
-DTEND:20260623T113000
+DTSTART:20260623T080000
+DTEND:20260623T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1541,8 +1541,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - FT 1.15 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260623T114500
-DTEND:20260623T131500
+DTSTART:20260623T094500
+DTEND:20260623T111500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1550,8 +1550,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260623T140000
-DTEND:20260623T153000
+DTSTART:20260623T120000
+DTEND:20260623T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1559,8 +1559,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260624T081500
-DTEND:20260624T094500
+DTSTART:20260624T061500
+DTEND:20260624T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1568,8 +1568,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260624T100000
-DTEND:20260624T113000
+DTSTART:20260624T080000
+DTEND:20260624T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1577,8 +1577,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I/Gruppe 2 - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Gruppe 2 - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260624T114500
-DTEND:20260624T131500
+DTSTART:20260624T094500
+DTEND:20260624T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1586,8 +1586,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260624T140000
-DTEND:20260624T153000
+DTSTART:20260624T120000
+DTEND:20260624T133000
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1595,8 +1595,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260624T154500
-DTEND:20260624T171500
+DTSTART:20260624T134500
+DTEND:20260624T151500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1604,8 +1604,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 1 mit M. Düvel - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 1 mit M. Düvel - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260625T081500
-DTEND:20260625T094500
+DTSTART:20260625T061500
+DTEND:20260625T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1613,8 +1613,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 1 mit M. Düvel - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 1 mit M. Düvel - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260625T100000
-DTEND:20260625T113000
+DTSTART:20260625T080000
+DTEND:20260625T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1622,8 +1622,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I/Gruppe 1 - ZWT II 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Gruppe 1 - ZWT II 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260625T114500
-DTEND:20260625T131500
+DTSTART:20260625T094500
+DTEND:20260625T111500
 CATEGORIES:TraiNex
 LOCATION:ZWT II 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1631,8 +1631,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260625T140000
-DTEND:20260625T153000
+DTSTART:20260625T120000
+DTEND:20260625T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1640,8 +1640,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260625T154500
-DTEND:20260625T171500
+DTSTART:20260625T134500
+DTEND:20260625T151500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1649,8 +1649,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260626T081500
-DTEND:20260626T094500
+DTSTART:20260626T061500
+DTEND:20260626T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1658,8 +1658,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260626T100000
-DTEND:20260626T113000
+DTSTART:20260626T080000
+DTEND:20260626T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1667,8 +1667,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260626T114500
-DTEND:20260626T131500
+DTSTART:20260626T094500
+DTEND:20260626T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1676,8 +1676,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260626T140000
-DTEND:20260626T153000
+DTSTART:20260626T120000
+DTEND:20260626T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1685,8 +1685,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technisches Englisch I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260629T081500
-DTEND:20260629T094500
+DTSTART:20260629T061500
+DTEND:20260629T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1694,8 +1694,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260629T100000
-DTEND:20260629T113000
+DTSTART:20260629T080000
+DTEND:20260629T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1703,8 +1703,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Technisches Englisch I/Referate / Prüfungsleistung - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Technisches Englisch I/Referate / Prüfungsleistung - FT 1.15 (Hörsaal) - Mechatronik 2024/Aaron Shook  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260630T081500
-DTEND:20260630T094500
+DTSTART:20260630T061500
+DTEND:20260630T074500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1712,8 +1712,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260630T100000
-DTEND:20260630T113000
+DTSTART:20260630T080000
+DTEND:20260630T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1721,8 +1721,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260630T114500
-DTEND:20260630T131500
+DTSTART:20260630T094500
+DTEND:20260630T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1730,8 +1730,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260630T140000
-DTEND:20260630T153000
+DTSTART:20260630T120000
+DTEND:20260630T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1739,8 +1739,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260701T081500
-DTEND:20260701T094500
+DTSTART:20260701T061500
+DTEND:20260701T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1748,8 +1748,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260701T100000
-DTEND:20260701T113000
+DTSTART:20260701T080000
+DTEND:20260701T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1757,8 +1757,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I/Gruppe 2 - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Gruppe 2 - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260701T114500
-DTEND:20260701T131500
+DTSTART:20260701T094500
+DTEND:20260701T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1766,8 +1766,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260701T140000
-DTEND:20260701T153000
+DTSTART:20260701T120000
+DTEND:20260701T133000
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1775,8 +1775,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit - FT 1.15 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260701T154500
-DTEND:20260701T171500
+DTSTART:20260701T134500
+DTEND:20260701T151500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1784,8 +1784,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I/Klausur - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I/Klausur - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260702T081500
-DTEND:20260702T094500
+DTSTART:20260702T061500
+DTEND:20260702T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1793,8 +1793,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 2 mit M. Düvel - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 2 mit M. Düvel - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260702T100000
-DTEND:20260702T113000
+DTSTART:20260702T080000
+DTEND:20260702T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1802,8 +1802,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 2 mit M. Düvel - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 2 mit M. Düvel - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260702T114500
-DTEND:20260702T131500
+DTSTART:20260702T094500
+DTEND:20260702T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1811,8 +1811,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260703T081500
-DTEND:20260703T094500
+DTSTART:20260703T061500
+DTEND:20260703T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1820,8 +1820,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260703T100000
-DTEND:20260703T113000
+DTSTART:20260703T080000
+DTEND:20260703T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1829,8 +1829,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260703T114500
-DTEND:20260703T131500
+DTSTART:20260703T094500
+DTEND:20260703T111500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1838,8 +1838,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Regelungstechnik I/Labor - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260703T140000
-DTEND:20260703T153000
+DTSTART:20260703T120000
+DTEND:20260703T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1847,8 +1847,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Statik und Festigkeit/Klausur - FT 2.05 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Statik und Festigkeit/Klausur - FT 2.05 (Hörsaal) - Mechatronik 2024/Heike Horeschi  ab 11:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260706T110000
-DTEND:20260706T123000
+DTSTART:20260706T090000
+DTEND:20260706T103000
 CATEGORIES:TraiNex
 LOCATION:FT 2.05 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1856,8 +1856,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elektronik I/Klausur - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Klausur - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260709T081500
-DTEND:20260709T094500
+DTSTART:20260709T061500
+DTEND:20260709T074500
 CATEGORIES:TraiNex
 LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -1865,8 +1865,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Engineering I/Klausur - ZWT II 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I/Klausur - ZWT II 1.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 09:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260710T090000
-DTEND:20260710T093000
+DTSTART:20260710T070000
+DTEND:20260710T073000
 CATEGORIES:TraiNex
 LOCATION:ZWT II 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
