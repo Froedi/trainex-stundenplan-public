@@ -163,9 +163,9 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:Technisches Englisch I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
-DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260427T061500
-DTEND:20260427T074500
+DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
+DTSTART:20260427T080000
+DTEND:20260427T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -175,15 +175,6 @@ SUMMARY:Software Engineering I - ZWT III 2.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Software Engineering I - ZWT III 2.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
 DTSTART:20260427T094500
 DTEND:20260427T111500
-CATEGORIES:TraiNex
-LOCATION:ZWT III 2.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Software Engineering I - ZWT III 2.04 (Vorlesungsraum)  -  phwt_trainex
-DESCRIPTION:Software Engineering I - ZWT III 2.04 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260427T120000
-DTEND:20260427T133000
 CATEGORIES:TraiNex
 LOCATION:ZWT III 2.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -213,6 +204,15 @@ DTSTART:20260428T094500
 DTEND:20260428T111500
 CATEGORIES:TraiNex
 LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Semesteraufktaktgespräch - FT 1.08 (Besprechungsraum)  -  phwt_trainex
+DESCRIPTION:Semesteraufktaktgespräch - FT 1.08 (Besprechungsraum) - Grp. Kurssprecher Diepholz  ab 13:15 Uhr - Aktuelle Termine immer im TraiNex prüfen. (Leiter/-in: Peter Blömer)
+DTSTART:20260428T111500
+DTEND:20260428T120000
+CATEGORIES:TraiNex
+LOCATION:FT 1.08 (Besprechungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
 
 BEGIN:VEVENT
@@ -279,6 +279,15 @@ LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGm
 END:VEVENT
 
 BEGIN:VEVENT
+SUMMARY:Software Engineering I - FT 1.15 (Hörsaal)  -  phwt_trainex
+DESCRIPTION:Software Engineering I - FT 1.15 (Hörsaal) - Mechatronik 2024/Herwig Henseler  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
+DTSTART:20260430T061500
+DTEND:20260430T074500
+CATEGORIES:TraiNex
+LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
+END:VEVENT
+
+BEGIN:VEVENT
 SUMMARY:Elektronik I/Gruppe 1 - ZWT I E.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I/Gruppe 1 - ZWT I E.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
 DTSTART:20260430T080000
@@ -307,9 +316,9 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:Technisches Englisch I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
-DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260504T061500
-DTEND:20260504T074500
+DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
+DTSTART:20260504T080000
+DTEND:20260504T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
@@ -487,9 +496,9 @@ END:VEVENT
 
 BEGIN:VEVENT
 SUMMARY:Technisches Englisch I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
-DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260511T061500
-DTEND:20260511T074500
+DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
+DTSTART:20260511T080000
+DTEND:20260511T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
