@@ -1539,21 +1539,21 @@ LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Tech
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor)  -  phwt_trainex
-DESCRIPTION:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
+SUMMARY:Technisches Englisch I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
+DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
 DTSTART:20260629T080000
 DTEND:20260629T093000
 CATEGORIES:TraiNex
-LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
+LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Technisches Englisch I/Referate / Prüfungsleistung - FT 1.15 (Hörsaal)  -  phwt_trainex
-DESCRIPTION:Technisches Englisch I/Referate / Prüfungsleistung - FT 1.15 (Hörsaal) - Mechatronik 2024/Aaron Shook  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260630T061500
-DTEND:20260630T074500
+SUMMARY:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor)  -  phwt_trainex
+DESCRIPTION:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
+DTSTART:20260629T094500
+DTEND:20260629T111500
 CATEGORIES:TraiNex
-LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
+LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
 
 BEGIN:VEVENT
