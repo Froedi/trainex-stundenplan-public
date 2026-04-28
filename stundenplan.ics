@@ -1,23 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Technisches Englisch I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
-DESCRIPTION:Technisches Englisch I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Aaron Shook  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260427T080000
-DTEND:20260427T093000
-CATEGORIES:TraiNex
-LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Software Engineering I - ZME 1.05 (Vorlesungsraum)  -  phwt_trainex
-DESCRIPTION:Software Engineering I - ZME 1.05 (Vorlesungsraum) - Mechatronik 2024/Herwig Henseler  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260427T094500
-DTEND:20260427T111500
-CATEGORIES:TraiNex
-LOCATION:ZME 1.05 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
-END:VEVENT
-
-BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme/Gruppe 2 mit M. Düvel - ZME 1.02 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme/Gruppe 2 mit M. Düvel - ZME 1.02 (Multifunktionslabor) - Mechatronik 2024/Thorsten Schnare  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
 DTSTART:20260428T061500
