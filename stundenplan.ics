@@ -495,6 +495,15 @@ LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und
 END:VEVENT
 
 BEGIN:VEVENT
+SUMMARY: Mathematik III - ZME 1.01 (Vorlesungsraum) - phwt_trainex
+DESCRIPTION:Individualprüfung -  Mathematik III - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024 / Dr. Kevin Ruwisch ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
+DTSTART:20260522T080000
+DTEND:20260522T093000
+CATEGORIES:TraiNex
+LOCATION:ZME 1.01 (Vorlesungsraum)  - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
+END:VEVENT
+
+BEGIN:VEVENT
 SUMMARY:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor)  -  phwt_trainex
 DESCRIPTION:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
 DTSTART:20260526T061500
