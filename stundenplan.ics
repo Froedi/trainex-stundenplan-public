@@ -153,12 +153,12 @@ LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGm
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor)  -  phwt_trainex
-DESCRIPTION:Grundlagenlabor II/Labor - ZME 2.01 (Multifunktionslabor) - Mechatronik 2024/Michael Düvel  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
+SUMMARY:Eingebettete Systeme - FT 1.15 (Hörsaal)  -  phwt_trainex
+DESCRIPTION:Eingebettete Systeme - FT 1.15 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
 DTSTART:20260519T080000
 DTEND:20260519T093000
 CATEGORIES:TraiNex
-LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
+LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
 
 BEGIN:VEVENT
@@ -171,21 +171,12 @@ LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGm
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Eingebettete Systeme - FT 1.15 (Hörsaal)  -  phwt_trainex
-DESCRIPTION:Eingebettete Systeme - FT 1.15 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
+SUMMARY:Elektronik I/Gruppe 1 - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
+DESCRIPTION:Elektronik I/Gruppe 1 - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
 DTSTART:20260519T120000
 DTEND:20260519T133000
 CATEGORIES:TraiNex
-LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Elektronik I/Gruppe 1 - ZWT II 1.04 (Vorlesungsraum)  -  phwt_trainex
-DESCRIPTION:Elektronik I/Gruppe 1 - ZWT II 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260519T134500
-DTEND:20260519T151500
-CATEGORIES:TraiNex
-LOCATION:ZWT II 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
+LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
 
 BEGIN:VEVENT
