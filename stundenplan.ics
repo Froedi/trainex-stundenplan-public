@@ -171,15 +171,6 @@ LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGm
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Regelungstechnik I - FT 2.05 (Hörsaal)  -  phwt_trainex
-DESCRIPTION:Regelungstechnik I - FT 2.05 (Hörsaal) - Mechatronik 2024/Andreas Baral  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260526T134500
-DTEND:20260526T151500
-CATEGORIES:TraiNex
-LOCATION:FT 2.05 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
-END:VEVENT
-
-BEGIN:VEVENT
 SUMMARY:Elektronik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
 DESCRIPTION:Elektronik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Kai-Uwe Zirk  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
 DTSTART:20260527T061500
@@ -360,12 +351,21 @@ LOCATION:FT 1.15 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGm
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
-DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260602T134500
-DTEND:20260602T151500
+SUMMARY:Regelungstechnik I - FT 2.07 (Hörsaal)  -  phwt_trainex
+DESCRIPTION:Regelungstechnik I - FT 2.07 (Hörsaal) - Mechatronik 2024/Andreas Baral  ab 08:15 Uhr - Aktuelle Termine immer im TraiNex prüfen.
+DTSTART:20260603T061500
+DTEND:20260603T074500
 CATEGORIES:TraiNex
-LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
+LOCATION:FT 2.07 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik I - FT 2.07 (Hörsaal)  -  phwt_trainex
+DESCRIPTION:Regelungstechnik I - FT 2.07 (Hörsaal) - Mechatronik 2024/Andreas Baral  ab 10:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
+DTSTART:20260603T080000
+DTEND:20260603T093000
+CATEGORIES:TraiNex
+LOCATION:FT 2.07 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
 
 BEGIN:VEVENT
@@ -528,15 +528,6 @@ DTSTART:20260609T120000
 DTEND:20260609T133000
 CATEGORIES:TraiNex
 LOCATION:ZME 1.02 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
-END:VEVENT
-
-BEGIN:VEVENT
-SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
-DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 15:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
-DTSTART:20260609T134500
-DTEND:20260609T151500
-CATEGORIES:TraiNex
-LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
 
 BEGIN:VEVENT
@@ -882,12 +873,21 @@ LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Regelungstechnik I - ZME 1.04 (Vorlesungsraum)  -  phwt_trainex
-DESCRIPTION:Regelungstechnik I - ZME 1.04 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
+SUMMARY:Regelungstechnik I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
+DESCRIPTION:Regelungstechnik I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 11:45 Uhr - Aktuelle Termine immer im TraiNex prüfen.
+DTSTART:20260623T094500
+DTEND:20260623T111500
+CATEGORIES:TraiNex
+LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Regelungstechnik I - ZME 1.01 (Vorlesungsraum)  -  phwt_trainex
+DESCRIPTION:Regelungstechnik I - ZME 1.01 (Vorlesungsraum) - Mechatronik 2024/Andreas Baral  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
 DTSTART:20260623T120000
 DTEND:20260623T133000
 CATEGORIES:TraiNex
-LOCATION:ZME 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
+LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
 
 BEGIN:VEVENT
