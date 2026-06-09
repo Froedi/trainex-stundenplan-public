@@ -180,6 +180,15 @@ LOCATION:ZME 1.01 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Tech
 END:VEVENT
 
 BEGIN:VEVENT
+SUMMARY:Allgemeines PHWT - FT 1.14 (Hörsaal)  -  phwt_trainex
+DESCRIPTION:Allgemeines PHWT - FT 1.14 (Hörsaal) - Grp. Senat  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
+DTSTART:20260615T120000
+DTEND:20260615T150000
+CATEGORIES:TraiNex
+LOCATION:FT 1.14 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
+END:VEVENT
+
+BEGIN:VEVENT
 SUMMARY:Eingebettete Systeme - FT 1.15 (Hörsaal)  -  phwt_trainex
 DESCRIPTION:Eingebettete Systeme - FT 1.15 (Hörsaal) - Mechatronik 2024/Thorsten Schnare  ab 09:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
 DTSTART:20260616T070000
@@ -357,6 +366,15 @@ DTSTART:20260622T080000
 DTEND:20260622T093000
 CATEGORIES:TraiNex
 LOCATION:ZME 2.01 (Multifunktionslabor) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Allgemeines PHWT/STBV - VEC 1.03 (S3)  -  phwt_trainex
+DESCRIPTION:Allgemeines PHWT/STBV - VEC 1.03 (S3) - Grp. Senat  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
+DTSTART:20260622T120000
+DTEND:20260622T133000
+CATEGORIES:TraiNex
+LOCATION:VEC 1.03 (S3) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
 
 BEGIN:VEVENT
@@ -708,5 +726,14 @@ DTSTART:20260710T070000
 DTEND:20260710T073000
 CATEGORIES:TraiNex
 LOCATION:ZWT II 1.04 (Vorlesungsraum) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Allgemeines PHWT - FT 1.14 (Hörsaal)  -  phwt_trainex
+DESCRIPTION:Allgemeines PHWT - FT 1.14 (Hörsaal) - Grp. Senat  ab 14:00 Uhr - Aktuelle Termine immer im TraiNex prüfen.
+DTSTART:20261123T120000
+DTEND:20261123T150000
+CATEGORIES:TraiNex
+LOCATION:FT 1.14 (Hörsaal) - Private Hochschule für Wirtschaft und Technik gGmbH // Rombergstraße 40 // 49377  Vechta
 END:VEVENT
 END:VCALENDAR
